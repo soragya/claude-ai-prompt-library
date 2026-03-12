@@ -33,8 +33,7 @@ The prompts focus on real-world ecommerce use cases such as Amazon product listi
 - [Keyword Research Prompts](keyword-research-prompts.md)
 - [Review Analysis Prompts](review-analysis-prompts.md)
 
-4. Competitor Listing Analysis
-5. Product Description Generation
+
 
 ## Example Prompt
 
@@ -66,6 +65,26 @@ Return the result in this format:
 2. Use the Keyword Research Prompt to identify high-search keywords.
 3. Use the Review Analysis Prompt to extract insights from customer feedback.
 4. Apply these insights to improve product listings and marketing strategy.
+
+   User Product Information
+        │
+        ▼
+Amazon Listing Prompt
+        │
+        ▼
+AI Generated Listing
+        │
+        ▼
+Keyword Research Prompt
+        │
+        ▼
+High-Search Keywords
+        │
+        ▼
+Review Analysis Prompt
+        │
+        ▼
+Product Improvement Insights
 
 ## Author
 Pragya Sharma
