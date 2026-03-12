@@ -22,8 +22,9 @@ The prompts focus on real-world ecommerce use cases such as Amazon product listi
 - Ecommerce marketplace knowledge
 
 ## Prompt Categories
-1. Amazon Listing Optimization
-2. Keyword Research Prompts
+
+- [Amazon Listing Prompts](amazon-listing-prompts.md)
+- [Keyword Research Prompts](keyword-research-prompts.md)
 3. Customer Review Analysis
 4. Competitor Listing Analysis
 5. Product Description Generation
