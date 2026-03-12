@@ -6,6 +6,12 @@
 ![Use Case](https://img.shields.io/badge/Use--Case-Ecommerce-orange)
 
 This repository contains a curated collection of practical prompts designed for use with Claude AI.
+## How to Use
+
+1. Choose a prompt from the library.
+2. Copy the prompt into Claude AI.
+3. Replace the product details with your own product information.
+4. Review and refine the AI output before using it in your ecommerce listings.
 ## Table of Contents
 
 - Overview
@@ -53,6 +59,13 @@ Return the result in this format:
 - 5 Bullet Points
 - Product Description
 - Search Keywords
+
+ ## Example Workflow
+
+1. Use the Amazon Listing Prompt to generate a product listing.
+2. Use the Keyword Research Prompt to identify high-search keywords.
+3. Use the Review Analysis Prompt to extract insights from customer feedback.
+4. Apply these insights to improve product listings and marketing strategy.
 
 ## Author
 Pragya Sharma
