@@ -37,3 +37,19 @@ Provide:
 • Key strengths customers mention  
 • Common complaints  
 • Actionable improvements for the product
+
+Example Output
+
+Overall Sentiment: Mostly Positive
+
+Positive Themes:
+• Comfortable cotton fabric
+• Suitable for summer wear
+
+Negative Themes:
+• Stitching quality concerns
+• Slight sizing issues
+
+Suggested Improvements:
+• Reinforce stitching quality
+• Offer clearer size chart
