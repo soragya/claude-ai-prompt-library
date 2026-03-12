@@ -32,3 +32,17 @@ Provide:
 • High-volume keywords  
 • Medium-competition keywords  
 • Long-tail keywords for niche targeting
+
+Example Output
+
+Primary Keywords:
+cotton kurti set
+women kurti pant set
+
+Long-Tail Keywords:
+cotton kurti pant dupatta set for women
+breathable summer kurti set
+
+Related Search Terms:
+ethnic wear for women
+daily wear kurti set
